@@ -77,7 +77,7 @@ console.log(formData)
       });
   
   }
-  console.log(data)
+ 
   return (
     <>
     <ToastContainer/>
