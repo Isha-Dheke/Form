@@ -1,0 +1,26 @@
+{
+  "students": {
+    "name": "Isha",
+    "email": "jasgd@gmail.com",
+    "phone": "dsfd",
+    "citizenship": "ds",
+    "addresses": [
+      {
+        "addressType": "permanent",
+        "province": "sdf",
+        "district": "dsf",
+        "municipality": "df",
+        "ward": "sdf",
+        "tole": "1"
+      },
+      {
+        "addressType": "temporary",
+        "province": "dsf",
+        "district": "df",
+        "municipality": "df",
+        "ward": "sad",
+        "tole": "2"
+      }
+    ]
+  }
+}
